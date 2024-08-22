@@ -111,12 +111,6 @@ public class Main {
         int a = s.nextInt();
         System.out.println("Entered the number: " + a);
     }
-
-
-
-
-
-//        scanner.close();
 }
 
 
