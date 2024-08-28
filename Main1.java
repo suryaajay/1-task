@@ -16,3 +16,7 @@ public class Main1 {
         }
     }
 }
+
+// Output 
+Enter a number: 2
+2 IT IS POSITIVE
