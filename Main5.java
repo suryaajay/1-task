@@ -8,3 +8,7 @@ public class Main5 {
         System.out.println("Entered the number: " + a);
     }
 }
+
+// Output
+Enter the number: 100
+Entered the number: 100
